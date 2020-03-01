@@ -4,6 +4,6 @@ $ pkg install python
 $ pkg install python2 
 $ pkg install git
 $ pkg install wget
-$ git clone https://github.com/Mr-XsZ/Dark-Fb
+$ git clone https://github.com/pur404/fb
 $ cd Dark-Fb
 $ bash install.sh
