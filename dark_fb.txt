@@ -1,0 +1,9 @@
+$ pkg update 
+$ pkg upgrade
+$ pkg install python
+$ pkg install python2 
+$ pkg install git
+$ pkg install wget
+$ git clone https://github.com/Mr-XsZ/Dark-Fb
+$ cd Dark-Fb
+$ bash install.sh
